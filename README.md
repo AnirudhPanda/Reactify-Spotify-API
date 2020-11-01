@@ -1,4 +1,4 @@
-# Reactify-Spotipy API and ReactJS
+# Reactify-Spotify API and ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
