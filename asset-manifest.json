@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reactify-Spotify-API/static/css/main.7c4c9e01.chunk.css",
+    "main.js": "/Reactify-Spotify-API/static/js/main.3e1e3344.chunk.js",
+    "main.js.map": "/Reactify-Spotify-API/static/js/main.3e1e3344.chunk.js.map",
+    "runtime-main.js": "/Reactify-Spotify-API/static/js/runtime-main.448b85b9.js",
+    "runtime-main.js.map": "/Reactify-Spotify-API/static/js/runtime-main.448b85b9.js.map",
+    "static/js/2.fda4df39.chunk.js": "/Reactify-Spotify-API/static/js/2.fda4df39.chunk.js",
+    "static/js/2.fda4df39.chunk.js.map": "/Reactify-Spotify-API/static/js/2.fda4df39.chunk.js.map",
+    "index.html": "/Reactify-Spotify-API/index.html",
+    "static/css/main.7c4c9e01.chunk.css.map": "/Reactify-Spotify-API/static/css/main.7c4c9e01.chunk.css.map",
+    "static/js/2.fda4df39.chunk.js.LICENSE.txt": "/Reactify-Spotify-API/static/js/2.fda4df39.chunk.js.LICENSE.txt",
+    "static/media/spotify.4e7c5090.svg": "/Reactify-Spotify-API/static/media/spotify.4e7c5090.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.448b85b9.js",
+    "static/js/2.fda4df39.chunk.js",
+    "static/css/main.7c4c9e01.chunk.css",
+    "static/js/main.3e1e3344.chunk.js"
+  ]
+}
